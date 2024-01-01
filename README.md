@@ -1,6 +1,6 @@
 # Porosity Permeability-with-Kmeans
                 
-                            Machine Learning
+                            **Machine Learning**
 
 The advent of machine learning marks a `pivotal` epoch in `technological advancement` (De Raedt et al, 2010). At its essence, machine learning encompasses a facet of `artificial intelligence` that empowers systems to `learn autonomously from data without explicit programming`. This transformative capability hinges on sophisticated `algorithms and models` that glean `insights and patterns` from `extensive datasets`, enabling systems to make data-informed `predictions and decisions`.
 
@@ -14,7 +14,7 @@ Diving into the foundational elements of machine learning unveils three `core ty
 
 The convergence of these types underpins the fabric of machine learning, empowering systems to evolve and adapt, and enhancing their decision-making prowess.
 
-                Machine Learning and Real-World Applications
+                                                 **Machine Learning and Real-World Applications**
                 
 The impact of machine learning spans across diverse sectors, `fostering innovations and efficiencies`. In healthcare, machine learning aids in `diagnostics`, `disease prediction`, and `personalized medicine`. `Financial sectors` benefit from `improved fraud detection`, `risk assessment`, and `algorithmic trading` (Kibler et al., 2016). `Marketing strategies` leverage machine learning for `customer segmentation`, `recommendation systems`, and `predictive analytics`. In `manufacturing`, `predictive maintenance` and `supply chain optimization` are enhanced. `Natural Language Processing` (NLP) `powers sentiment analysis`, `language translation`, and `chatbots`, while `computer vision` enables `object detection`, `facial recognition`, and `autonomous vehicles`.
 
