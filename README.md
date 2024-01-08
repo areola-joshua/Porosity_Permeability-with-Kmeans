@@ -25,4 +25,20 @@ Real-world case studies underscore the `transformative potential of machine lear
 According to Cesa-Bianchi et al., 2018. The significance of machine learning is underscored by its` multifaceted advantages`. Automation, a key facet, streamlines decision-making and processes, significantly reducing manual intervention. Pattern recognition capabilities unravel complex patterns within `extensive datasets`, offering `invaluable insights` and trends. Personalization, another crucial aspect, tailor’s experiences and recommendations to individual preferences, enhancing user satisfaction. Scalability equips systems to efficiently handle large volumes of data, adapting to evolving scenarios seamlessly.
 Looking ahead, emerging trends in machine learning indicate exciting developments (Banerji et al., 1990). Explainable AI seeks to make machine learning models more transparent and interpretable, fostering trust and reliability. Federated learning endeavors to train models across decentralized devices, ensuring data privacy and security. As AI ethics gains prominence, ethical considerations and regulations in machine learning are becoming increasingly pivotal, guiding responsible AI implementation. These trends signify an evolving landscape that emphasizes `ethical`, `transparent`, and `inclusive approaches` to machine learning, shaping a promising future for this dynamic field.
 
-                                        
+                                         Porosity Permeability Distribution
+
+Porosity, a measure of the void spaces within a rock formation, is pivotal in the oil and gas industry as it denotes the capacity of a reservoir to hold hydrocarbons. This property, categorized as either primary (inherent pore spaces) or secondary (resulting from fractures or faults), determines the storage potential of fluids like oil and natural gas. Permeability, on the other hand, signifies the rock's ability to transmit these fluids through connected pores. Rocks with high permeability facilitate efficient fluid movement, aiding in extraction. Understanding these properties is vital for reservoir characterization, assisting geologists and engineers in estimating reservoir volume, predicting flow rates, and optimizing extraction methods. Various technologies, from well logging to advanced imaging, play a crucial role in mapping and analyzing these properties within subsurface formations. Continual advancements in measurement techniques and extraction strategies remain imperative for maximizing recovery rates in oil and gas fields globally.
+N = (1-  ρd/ρ  )											(3.1)
+Where:
+N is Porosity
+ρd is Bulk Density of dry specimen
+ρ is Particle Density
+Also, using Darcy’s law to compute for Permeability. Brown and Smith (2005) show that permeability can be determined by the following relationship:
+K = (Q* μL)/(A*Pọ)											(3.2)
+Where:
+K is Permeability
+Q is Net air flow
+Pọ is Applied Pressure
+A is the inlet area
+μ is viscosity
+
