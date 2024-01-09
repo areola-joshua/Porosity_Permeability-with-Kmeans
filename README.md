@@ -27,7 +27,7 @@ Looking ahead, emerging trends in machine learning indicate exciting development
 
                                          Porosity Permeability Distribution
 
-Porosity, a measure of the void spaces within a rock formation, is pivotal in the oil and gas industry as it denotes the capacity of a reservoir to hold hydrocarbons. This property, categorized as either primary (inherent pore spaces) or secondary (resulting from fractures or faults), determines the storage potential of fluids like oil and natural gas. Permeability, on the other hand, signifies the rock's ability to transmit these fluids through connected pores. Rocks with high permeability facilitate efficient fluid movement, aiding in extraction. Understanding these properties is vital for reservoir characterization, assisting geologists and engineers in estimating reservoir volume, predicting flow rates, and optimizing extraction methods. Various technologies, from well logging to advanced imaging, play a crucial role in mapping and analyzing these properties within subsurface formations. Continual advancements in measurement techniques and extraction strategies remain imperative for maximizing recovery rates in oil and gas fields globally.
+Porosity, a measure of the void spaces within a rock formation, is pivotal in the oil and gas industry as it denotes the capacity of a reservoir to hold hydrocarbons. This property, categorized as either primary (inherent pore spaces) or secondary (resulting from fractures or faults), determines the storage potential of fluids like oil and natural gas. Permeability, on the other hand, signifies the rock's ability to `transmit these fluids through connected pores`. `Rocks with high permeability facilitate efficient fluid movement, aiding in extraction`. Understanding these properties is vital for `reservoir characterization`, assisting geologists and engineers in estimating reservoir volume, predicting flow rates, and optimizing extraction methods. Various technologies, from well logging to advanced imaging, play a crucial role in mapping and analyzing these properties within subsurface formations. Continual advancements in measurement techniques and extraction strategies remain imperative for maximizing recovery rates in oil and gas fields globally.
 N = (1-  ρd/ρ  )											(3.1)
 Where:
 N is Porosity
@@ -42,3 +42,4 @@ Pọ is Applied Pressure
 A is the inlet area
 μ is viscosity
 
+                                  Machine learning for Porosity and Permeability Distribution
