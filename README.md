@@ -1,6 +1,6 @@
 # Porosity Permeability-with-Kmeans
                 
-                                                                         Machine Learning
+                                                                          Machine Learning
 
 The advent of machine learning marks a `pivotal` epoch in `technological advancement` (De Raedt et al, 2010). At its essence, machine learning encompasses a facet of `artificial intelligence` that empowers systems to `learn autonomously from data without explicit programming`. This transformative capability hinges on sophisticated `algorithms and models` that glean `insights and patterns` from `extensive datasets`, enabling systems to make data-informed `predictions and decisions`.
 
