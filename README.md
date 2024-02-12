@@ -14,7 +14,7 @@ Diving into the foundational elements of machine learning unveils three `core ty
 
 The convergence of these types underpins the fabric of machine learning, empowering systems to evolve and adapt, and enhancing their decision-making prowess.
 
-                                                               Machine Learning and Real-world Applications
+                                                              Machine Learning and Real-world Applications
                 
 The impact of machine learning spans diverse sectors, `fostering innovations and efficiencies`. In healthcare, machine learning aids in `diagnostics`, `disease prediction`, and `personalized medicine`. `Financial sectors` benefit from `improved fraud detection`, `risk assessment`, and `algorithmic trading` (Kibler et al., 2016). `Marketing strategies` leverage machine learning for `customer segmentation`, `recommendation systems`, and `predictive analytics`. In `manufacturing`, `predictive maintenance` and `supply chain optimization` are enhanced. `Natural Language Processing` (NLP) `powers sentiment analysis`, `language translation`, and `chatbots`, while `computer vision` enables `object detection`, `facial recognition`, and `autonomous vehicles`.
 
